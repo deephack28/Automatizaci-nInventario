@@ -37,8 +37,11 @@ En esta ocasión el programa te da un poco más de información al decir que el 
 
 # 3- Buscador
 Y por último, el programa trae incorporado un buscador para poder encontrar en las listas generadas previamente con la primera opción,
-¡¡IMPORTANTE para ello se tiene que exportar antes el resultado de los excels en TXT y guardarlo en la carpeta InventarioTXT
-El uso es simple, escribe alguna características del equipo a buscar (Nombre, número de serie...) y el programa lo buscara en esa carpeta.!!
+
+¡¡IMPORTANTE para ello se tiene que exportar antes el resultado de los excels en TXT y guardarlo en la carpeta InventarioTXT.!!
+
+El uso es simple, escribe alguna características del equipo a buscar (Nombre, número de serie...) y el programa lo buscara en esa carpeta.
+
 Si no se encuentra nada, el programa te lo reporta.
 
 ![imagen](https://user-images.githubusercontent.com/101093078/183941325-913e37a1-ab92-4b82-98de-d10f2997a66b.png)
