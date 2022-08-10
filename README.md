@@ -13,7 +13,9 @@ Una vez ejecutado hay que escribir las credenciales del usuario administrador pa
 Si el usuario y contraseña el programa os dará la bienvenida, en caso contrario se volverá a pedir las credenciales.
 
 ![imagen](https://user-images.githubusercontent.com/101093078/183938308-542d99c9-0560-4404-b002-23a9759789d3.png)
+
 ![imagen](https://user-images.githubusercontent.com/101093078/183938378-f4dcc011-5c30-4a71-9ba3-803ec94a323d.png)
+
 Para poder cerrar el programa antes de poner las credenciales, hay que darle a cancelar y a continuación pulsar la combinación de teclas Ctrl + C.
 
 # Una vez iniciado el programa
